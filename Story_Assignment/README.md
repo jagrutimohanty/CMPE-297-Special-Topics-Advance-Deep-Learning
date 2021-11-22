@@ -1,5 +1,7 @@
 
-Link for the video Recorded and uploaded on Youtube:
+Please find the link for the recorded and uploaded on Youtube and incase of any issue please email me at jagruti.mohanty@sjsu.edu :
+https://www.youtube.com/watch?v=kgPwpIn1adQ 
+
 
 Link for the Medium Article:
 https://jagruti-mohanty.medium.com/automatic-speech-recognition-using-attention-based-architectures-cdb89d71b3a1
